@@ -1,25 +1,37 @@
 {
   "files": {
     "main.css": "/classics/static/css/main.ecf0aeb0.chunk.css",
-    "main.js": "/classics/static/js/main.67b78aca.chunk.js",
-    "main.js.map": "/classics/static/js/main.67b78aca.chunk.js.map",
+    "main.js": "/classics/static/js/main.a3bf4794.chunk.js",
+    "main.js.map": "/classics/static/js/main.a3bf4794.chunk.js.map",
     "runtime-main.js": "/classics/static/js/runtime-main.01dd5628.js",
     "runtime-main.js.map": "/classics/static/js/runtime-main.01dd5628.js.map",
-    "static/js/2.80a08dda.chunk.js": "/classics/static/js/2.80a08dda.chunk.js",
-    "static/js/2.80a08dda.chunk.js.map": "/classics/static/js/2.80a08dda.chunk.js.map",
+    "static/js/2.7565442a.chunk.js": "/classics/static/js/2.7565442a.chunk.js",
+    "static/js/2.7565442a.chunk.js.map": "/classics/static/js/2.7565442a.chunk.js.map",
     "index.html": "/classics/index.html",
-    "precache-manifest.f84c3cb2581d79f85a9b3d93fb64700b.js": "/classics/precache-manifest.f84c3cb2581d79f85a9b3d93fb64700b.js",
+    "precache-manifest.013045524ada355452108fc6052566d3.js": "/classics/precache-manifest.013045524ada355452108fc6052566d3.js",
     "service-worker.js": "/classics/service-worker.js",
     "static/css/main.ecf0aeb0.chunk.css.map": "/classics/static/css/main.ecf0aeb0.chunk.css.map",
-    "static/js/2.80a08dda.chunk.js.LICENSE": "/classics/static/js/2.80a08dda.chunk.js.LICENSE",
+    "static/js/2.7565442a.chunk.js.LICENSE": "/classics/static/js/2.7565442a.chunk.js.LICENSE",
+    "static/media/column.png": "/classics/static/media/column.6a7b12c8.png",
+    "static/media/harp.png": "/classics/static/media/harp.8a9063ca.png",
+    "static/media/helmet.png": "/classics/static/media/helmet.91e8bd0e.png",
     "static/media/hermes.png": "/classics/static/media/hermes.825a2cdd.png",
+    "static/media/jar.png": "/classics/static/media/jar.2b88773c.png",
+    "static/media/ladle.png": "/classics/static/media/ladle.c0b6ebce.png",
+    "static/media/owl.png": "/classics/static/media/owl.2bcb37a8.png",
+    "static/media/peacock.png": "/classics/static/media/peacock.420e915b.png",
     "static/media/pigeon.png": "/classics/static/media/pigeon.71810740.png",
-    "static/media/teacher-square.png": "/classics/static/media/teacher-square.5b5cb9f1.png"
+    "static/media/scroll.png": "/classics/static/media/scroll.5761a0f9.png",
+    "static/media/shield.png": "/classics/static/media/shield.00b0bada.png",
+    "static/media/ship.png": "/classics/static/media/ship.2cb26a70.png",
+    "static/media/sword.png": "/classics/static/media/sword.6cc740bd.png",
+    "static/media/teacher-square.png": "/classics/static/media/teacher-square.5b5cb9f1.png",
+    "static/media/toga.png": "/classics/static/media/toga.4f40ad24.png"
   },
   "entrypoints": [
     "static/js/runtime-main.01dd5628.js",
-    "static/js/2.80a08dda.chunk.js",
+    "static/js/2.7565442a.chunk.js",
     "static/css/main.ecf0aeb0.chunk.css",
-    "static/js/main.67b78aca.chunk.js"
+    "static/js/main.a3bf4794.chunk.js"
   ]
 }
