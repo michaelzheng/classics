@@ -1,31 +1,47 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae5779063b28db8acc837cb100074efe",
+    "revision": "59743812032f2233e8ff8a55f88d33ba",
     "url": "/classics/index.html"
   },
   {
-    "revision": "83e7ad217a0a3beefb57",
+    "revision": "66848380fdc9d01d9b4f",
     "url": "/classics/static/css/main.ecf0aeb0.chunk.css"
   },
   {
-    "revision": "623de9cfd46990148204",
-    "url": "/classics/static/js/2.9233e97d.chunk.js"
+    "revision": "5f6061fcfe3d5c2f8b19",
+    "url": "/classics/static/js/2.cf94c3c0.chunk.js"
   },
   {
     "revision": "fd56044fbab90a74509299bbf81211c5",
-    "url": "/classics/static/js/2.9233e97d.chunk.js.LICENSE"
+    "url": "/classics/static/js/2.cf94c3c0.chunk.js.LICENSE"
   },
   {
-    "revision": "83e7ad217a0a3beefb57",
-    "url": "/classics/static/js/main.0d237758.chunk.js"
+    "revision": "66848380fdc9d01d9b4f",
+    "url": "/classics/static/js/main.fe1630c0.chunk.js"
   },
   {
     "revision": "f96c6ddcef8c3e29a085",
     "url": "/classics/static/js/runtime-main.01dd5628.js"
   },
   {
+    "revision": "08a042386760f548d4ce6f295c15bcc7",
+    "url": "/classics/static/media/bow.08a04238.png"
+  },
+  {
+    "revision": "4b6cf7ca4eee47d460e3d7a0782283d4",
+    "url": "/classics/static/media/chariot.4b6cf7ca.png"
+  },
+  {
+    "revision": "acd1f787e20fafc57bf57ad645a5b04d",
+    "url": "/classics/static/media/chicken.acd1f787.png"
+  },
+  {
     "revision": "6a7b12c8cbc1efb73ce0bc0419496fdc",
     "url": "/classics/static/media/column.6a7b12c8.png"
+  },
+  {
+    "revision": "79762652b75ba8ed8de68109992dcf66",
+    "url": "/classics/static/media/cushion.79762652.png"
   },
   {
     "revision": "8a9063ca36aac6a1a7e03acb7ba6af83",
@@ -58,6 +74,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71810740831694f96501e97b73042fbf",
     "url": "/classics/static/media/pigeon.71810740.png"
+  },
+  {
+    "revision": "e6f3c17b0df300ad2e888c85b437a78f",
+    "url": "/classics/static/media/ptarmiganrock.e6f3c17b.png"
+  },
+  {
+    "revision": "7b229d13b0656cb893cc34d0e004b9d8",
+    "url": "/classics/static/media/sandals.7b229d13.png"
   },
   {
     "revision": "5761a0f9210171acac612a802dd50845",
